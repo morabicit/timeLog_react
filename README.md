@@ -56,28 +56,3 @@ or
 yarn build
 ```
 The output will be available in the `build/` directory.
-
-## Running Tests
-To execute unit tests:
-```sh
-npm test
-```
-or
-```sh
-yarn test
-```
-
-## Ejecting
-If you need to customize the configuration:
-```sh
-npm run eject
-```
-> Note: This action is irreversible.
-
-## Browsers Support
-- Modern browsers (Chrome, Firefox, Edge, Safari)
-- Production targets: `>0.2%, not dead, not op_mini all`
-
-## License
-This project is licensed under [MIT License](LICENSE).
-
