@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [<repository-url>](https://github.com/morabicit/timeLog_react.git)
+   git clone https://github.com/morabicit/timeLog_react.git
    cd itida
    ```
 2. Install dependencies:
